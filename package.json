@@ -1,7 +1,7 @@
 {
   "name": "node-course",
   "version": "1.0.0",
-  "main": "app2.js",
+  "main": "middleware.js",
   "dependencies": {
     "accepts": "^2.0.0",
     "body-parser": "^2.2.0",
